@@ -1,0 +1,22 @@
+{
+    "name": "elieldepaula/sku-gen",
+    "description": "Gerador de código SKU.",
+    "type": "library",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eliel de Paula",
+            "email": "dev@elieldepaula.com.br",
+            "homepage": "http://elieldepaula.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "elieldepaula\\skugen\\": "src"
+        }
+    }
+}
